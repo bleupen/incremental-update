@@ -1,5 +1,5 @@
 {
-  "name": "@bleupen/incremental-update-plugin",
+  "name": "informer-incremental-update-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
